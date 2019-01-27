@@ -2,15 +2,15 @@
     {
       "projectId":1,
       "projectName":"Beverage Consumption Survey",
-      "projectAnalyst":"Aditya Suri",
+      "projectAnalyst":"Sumukh Dalal",
       "projectChargeCode":"C1005",
       "projectBudget":90000,
-      "projectRole":"MANAGER",
+      "projectRole":"Field",
       "projectStatus":1
     },
     {
       "projectId":2,
-      "projectName":"Beverage Consumption Survey",
+      "projectName":"Cranberry Consumption Survey",
       "projectAnalyst":"Rajat Mishra",
       "projectChargeCode":"C1005",
       "projectBudget":90000,
@@ -21,6 +21,15 @@
       "projectId":3,
       "projectName":"Beverage Consumption Survey",
       "projectAnalyst":"Santanu Goswami",
+      "projectChargeCode":"C1005",
+      "projectBudget":90000,
+      "projectRole":"Field",
+      "projectStatus":1
+    },
+    {
+      "projectId":4,
+      "projectName":"Resort Survey",
+      "projectAnalyst":"Mohit Gupta",
       "projectChargeCode":"C1005",
       "projectBudget":90000,
       "projectRole":"MANAGER",
