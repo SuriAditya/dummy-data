@@ -1,0 +1,27 @@
+[
+    {
+      "projectId":1,
+      "projectName":"Beverage Consumption Survey",
+      "projectAnalyst":"Rajat Mishra",
+      "projectChargeCode":"C1005",
+      "projectBudget":90000,
+      "projectRole":"MANAGER",
+      "projectStatus":1
+    },
+    {
+      "projectId":2,
+      "projectName":"Beverage Consumption Survey",
+      "projectAnalyst":"Rajat Mishra",
+      "projectChargeCode":"C1005",
+      "projectBudget":90000,
+      "projectRole":"MANAGER",
+      "projectStatus":1},
+    {
+      "projectId":3,
+      "projectName":"Beverage Consumption Survey",
+      "projectAnalyst":"Rajat Mishra",
+      "projectChargeCode":"C1005",
+      "projectBudget":90000,
+      "projectRole":"MANAGER",
+      "projectStatus":1}
+]
