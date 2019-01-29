@@ -1,5 +1,5 @@
 {
-"project":[
+"projects":[
     {
       "projectId":1,
       "projectName":"Beverage Consumption Survey",
@@ -37,7 +37,7 @@
       "projectStatus":1
     }
 ],
-"headExpense":[
+"headExpenses":[
     {
       "projectId":1,
       "expenseName":"Fooding",
@@ -89,7 +89,7 @@
       "expenseAmount":25000
     }
 ],
-"userExpense":[
+"userExpenses":[
     {
       "projectId":1,
       "expenseName":"Sumukh Dalal",
